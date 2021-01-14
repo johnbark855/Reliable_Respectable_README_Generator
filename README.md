@@ -19,3 +19,8 @@ When I leave a section blank
 -the generator will notify you to insert valid data
 When I am finished with inserting all my data
 -a new README file is produced with proper formatting
+
+Here is a link to the demo video:https://drive.google.com/file/d/1N_LNTrZrwJLdQRLMZ92dKn5XX903_R94/view
+
+Here is a screenshot:
+<img src="https://dsm01pap002files.storage.live.com/y4m-buvDADVkQhRGon2Omo0qmgG465DSVe3a2kbkg8ndUVKp7yS_PJOJdK-jTlcL8X93Cp4x8e6lz-75aOFpuIZhR8LK6eRKeb73nHGSUxjRTjwMdqVxlpSFKd8x5WCHqaZw2kkhnpfd3dfTI0k5E5eeN8h9g9-E-JMz0tWgMjPxn6H1tRzVigJT4aHtf_7KzE5?width=1842&height=901&cropmode=none" width="1842" height="901" />

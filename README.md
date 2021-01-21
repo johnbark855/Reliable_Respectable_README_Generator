@@ -13,9 +13,9 @@ This will allow people more time to work on the actual projects instead of havin
 
 
 ## User Story
-
+```md
 As a developer, I want a README generator
--So I can quickly create a professional README for a new project
+--So I can quickly create a professional README for a new project
 When I use the README generator and answer the corresponding questions
 -The generator creates a README file based on the information of the project
 When I specify a license
@@ -28,6 +28,6 @@ When I am completely finished with the questions
 -The generator will have all the information inserted into a new README.md file
 When I use the table of contents on the README file
 -The links will redirect you to the desired section
-
+```
 Here is a screenshot of a demo generated README.md file:
 <img src="https://dsm01pap002files.storage.live.com/y4mjXFxzXBQroySodYh44BDsUcN9y4GpCxsa84918iT9pLvkj4hob5UoGxR7ZVqie65BUq_FGV4jBvxW_QV1RI2FHLKHAvSVcZU-vx6mAGhHGVVd-mLwF0VfAA_p6O32HiYWpQi5Iy6Ks3_cGr7q2cSppkb4XlDyAPCgGGS-UAhfeVv54eyzfUsxoy_XOpMMMPU?width=1920&height=1030&cropmode=none" width="1920" height="1030" />

@@ -84,7 +84,7 @@ ${data.description}
 
     ## Questions
     To see more of my work and projects, [Visit my Github profile.](https://github.com/${data.github})
-    If there are any questions you would like to ask, [Please, contact my email address.](${data.email})
+    If there are any questions you would like to ask, please contact my email ${data.email}
 
     `;
 

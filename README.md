@@ -30,4 +30,6 @@ When I use the table of contents on the README file
 -The links will redirect you to the desired section
 ```
 Here is a screenshot of a demo generated README.md file:
-<img src="https://dsm01pap002files.storage.live.com/y4mjXFxzXBQroySodYh44BDsUcN9y4GpCxsa84918iT9pLvkj4hob5UoGxR7ZVqie65BUq_FGV4jBvxW_QV1RI2FHLKHAvSVcZU-vx6mAGhHGVVd-mLwF0VfAA_p6O32HiYWpQi5Iy6Ks3_cGr7q2cSppkb4XlDyAPCgGGS-UAhfeVv54eyzfUsxoy_XOpMMMPU?width=1920&height=1030&cropmode=none" width="1920" height="1030" />
+<img src="https://dsm01pap002files.storage.live.com/y4mOVcK0DzTKVlfUJG1hyQRqnUV17AEUypaAHkunKmr9Jd3w8pddg1lzS_LarqYX5tqgx_XFYDIe_B1yJOXw3NthrxS_PuKfZEZCZA9bQkl4jp8gIR6yzxgVaj42as4vhLEEE1gs3HFF569zS50idg3vLDKmrqtL2jmEZ-zBkAntiJUGY1ZWS-kLjsfgl83n_O9?width=1920&height=1030&cropmode=none" width="1920" height="1030" />
+
+Here is the link to the video walkthrough of my README generator: https://drive.google.com/file/d/1rbN7WTKTE4MC54SZtaqqvPVL8W8OUTro/view

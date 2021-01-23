@@ -83,8 +83,8 @@ ${data.description}
     this application is covered by the ${data.license} license
 
     ## Questions
-    To see more of my work and projects, visit my Github profile: https://github.com/${data.github}
-    If there are any questions you would like to ask, please contact my email:${data.email}
+    To see more of my work and projects, [Visit my Github profile.](https://github.com/${data.github})
+    If there are any questions you would like to ask, [Please, contact my email address.](${data.email})
 
     `;
 

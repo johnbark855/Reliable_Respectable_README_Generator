@@ -28,6 +28,8 @@ When I am completely finished with the questions
 -The generator will have all the information inserted into a new README.md file
 When I use the table of contents on the README file
 -The links will redirect you to the desired section
+When I use the github and email links
+-The links will work and direct you to the appropiate linked sources
 ```
 Here is a screenshot of a demo generated README.md file:
 <img src="https://dsm01pap002files.storage.live.com/y4mOVcK0DzTKVlfUJG1hyQRqnUV17AEUypaAHkunKmr9Jd3w8pddg1lzS_LarqYX5tqgx_XFYDIe_B1yJOXw3NthrxS_PuKfZEZCZA9bQkl4jp8gIR6yzxgVaj42as4vhLEEE1gs3HFF569zS50idg3vLDKmrqtL2jmEZ-zBkAntiJUGY1ZWS-kLjsfgl83n_O9?width=1920&height=1030&cropmode=none" width="1920" height="1030" />

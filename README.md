@@ -9,8 +9,8 @@ README generator uses both user input and the [Inquirer package] to make a profe
 
 
 Technologies used:
-HTML
-NODE JS
+-HTML
+-NODE JS
 
 ## User Story
 ```md

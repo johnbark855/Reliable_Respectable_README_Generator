@@ -12,6 +12,8 @@ Technologies used:
 <ul>
 <li>HTML</li> 
 <li>NODE JS</li>
+<li>Javascript</li>
+<li>JSON</li>
 </ul>
 
 ## User Story

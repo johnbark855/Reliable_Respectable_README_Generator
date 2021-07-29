@@ -10,8 +10,8 @@ README generator uses both user input and the [Inquirer package] to make a profe
 
 Technologies used:
 <ul>
-<li>HTML<li> 
-<li>NODE JS<li>
+<li>HTML</li> 
+<li>NODE JS</li>
 </ul>
 
 ## User Story

@@ -7,10 +7,12 @@
 My assignment is to create a README generator that includes what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions. This 
 README generator uses both user input and the [Inquirer package] to make a professional, understandable README.
 
-
+<ul>
 Technologies used:
--HTML
--NODE JS
+
+<li>HTML<li>
+<li>NODE JS<li>
+  </ul>
 
 ## User Story
 ```md

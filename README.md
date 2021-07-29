@@ -8,9 +8,9 @@ My assignment is to create a README generator that includes what the app is for,
 README generator uses both user input and the [Inquirer package] to make a professional, understandable README.
 
 
-This will allow people more time to work on the actual projects instead of having to worry about making a README file as well. This is something crutial to a developer as they will be working on projects constantly with attention split between various aspects. They will likely aslo be communicating and collaborating with fellow developers and teammates to get this project done. During this understandably stressful time, the last thing developers want to focus on is something like a README file where they have to spend precious time working to convey all necessary information on a project to the user. That's where the generator comes in. All developers have to worry about now is putting in all the required data about the project and let the generator create a brand new README file including everything they need to display project information to the user. It also does this in a professional manner so developers don't have to worry about a sloppy looking README destroying all their hard work to look clean and professional.
-
-
+Technologies used:
+HTML
+NODE JS
 
 ## User Story
 ```md
